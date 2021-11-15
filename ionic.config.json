@@ -1,0 +1,7 @@
+{
+  "name": "ErasmusApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
